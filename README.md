@@ -1,2 +1,1 @@
-# public_maintenance
-Public messages on website
+⚠️ Maintenance in progress: Some features may be temporarily unavailable. Thank you for your patience! ⚠️
